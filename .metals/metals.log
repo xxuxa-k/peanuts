@@ -1,0 +1,48 @@
+INFO  started: Metals version 0.8.1 in workspace '/Users/tk/ghq/github.com/xxuxa-k/peanuts'
+INFO  time: initialize in 0.87s
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/HomeController.scala
+ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Method not found
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/test/controllers/HomeControllerSpec.scala
+INFO  started: Metals version 0.8.1 in workspace '/Users/tk/ghq/github.com/xxuxa-k/peanuts'
+INFO  time: initialize in 0.85s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/HomeController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+INFO  started: Metals version 0.8.1 in workspace '/Users/tk/ghq/github.com/xxuxa-k/peanuts'
+INFO  time: initialize in 0.89s
+INFO  skipping build import with status 'Requested'
+INFO  skipping build import with status 'Requested'
+INFO  started: Metals version 0.8.1 in workspace '/Users/tk/ghq/github.com/xxuxa-k/peanuts'
+INFO  time: initialize in 0.92s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/HomeController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+INFO  started: Metals version 0.8.1 in workspace '/Users/tk/ghq/github.com/xxuxa-k/peanuts'
+INFO  time: initialize in 1.08s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/HomeController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
+WARN  no build target for: /Users/tk/ghq/github.com/xxuxa-k/peanuts/app/controllers/CharacterController.scala
