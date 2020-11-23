@@ -9,5 +9,7 @@ target
 
 /.metals/*
 
+/tmp/
+
 .env
 .envrc
